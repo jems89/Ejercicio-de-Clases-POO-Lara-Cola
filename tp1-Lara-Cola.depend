@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1618171869 source:c:\users\jems8\desktop\lab2.2021\clase1\2021claseslab\eje6\tp1-lara-cola\main.cpp
+	<iostream>
+	"class1.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+
+1618174205 c:\users\jems8\desktop\lab2.2021\clase1\2021claseslab\eje6\tp1-lara-cola\class1.h
+	<iostream>
+	"class1.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+
+1618172264 source:c:\users\jems8\desktop\lab2.2021\clase1\2021claseslab\eje6\tp1-lara-cola\botella.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+	"class1.h"
+
+1618178952 source:c:\users\jems8\desktop\lab2.2021\clase1\2021claseslab\trabajonumero1\tp1-lara-cola\main.cpp
+	<iostream>
+	"class1.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+	"rlutil.h"
+
+1618178989 c:\users\jems8\desktop\lab2.2021\clase1\2021claseslab\trabajonumero1\tp1-lara-cola\class1.h
+	"rlutil.h"
+	<iostream>
+	"class1.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+
+1618178768 source:c:\users\jems8\desktop\lab2.2021\clase1\2021claseslab\trabajonumero1\tp1-lara-cola\botella.cpp
+	<iostream>
+	"rlutil.h"
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+	"class1.h"
+
+1594090645 c:\users\jems8\desktop\lab2.2021\clase1\2021claseslab\trabajonumero1\tp1-lara-cola\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
